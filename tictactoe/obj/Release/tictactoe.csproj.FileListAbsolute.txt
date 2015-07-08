@@ -1,0 +1,13 @@
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\bin\Release\tictactoe.exe.config
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\bin\Release\tictactoe.exe
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\bin\Release\tictactoe.pdb
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\MainWindow.baml
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\MainWindow.g.cs
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\App.g.cs
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\tictactoe_MarkupCompile.cache
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\tictactoe.g.resources
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\tictactoe.Properties.Resources.resources
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\tictactoe.csproj.GenerateResource.Cache
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\tictactoe.exe
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\tictactoe.pdb
+C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Release\tictactoe.csprojResolveAssemblyReference.cache
