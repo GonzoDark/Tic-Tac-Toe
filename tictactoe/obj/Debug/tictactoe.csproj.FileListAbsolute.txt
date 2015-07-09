@@ -11,3 +11,6 @@ C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj
 C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.Cache
 C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.exe
 C:\Users\GonzoDark\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\GonzoDark\Desktop\GitHub\tictactoe\Tic-Tac-Toe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\GonzoDark\Desktop\GitHub\tictactoe\Tic-Tac-Toe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\GonzoDark\Desktop\GitHub\tictactoe\Tic-Tac-Toe\tictactoe\obj\Debug\tictactoe.pdb

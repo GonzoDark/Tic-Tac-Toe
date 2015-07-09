@@ -24,6 +24,6 @@
         <Label Visibility="Hidden" Name="label_2_2" Content="0" HorizontalAlignment="Left" Margin="400,202,0,0" VerticalAlignment="Top"/>
         <Label Visibility="Hidden" Name="label_notice" Content="Label" HorizontalAlignment="Left" Margin="239,273,0,0" VerticalAlignment="Top"/>
         <Button Visibility="Hidden" Name="btn_restart" Content="Restart" HorizontalAlignment="Left" Margin="135,16,0,0" VerticalAlignment="Top" Width="75" Click="btn_restart_Click"/>
-        <CheckBox Content="Disable AI" HorizontalAlignment="Left" Margin="10,273,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+        <CheckBox Visibility="Visible" Content="Disable AI" HorizontalAlignment="Left" Margin="10,273,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
     </Grid>
 </Window>
