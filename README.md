@@ -6,5 +6,3 @@
 Future Features:
 * A better AI
 * Improved layout
-
-
